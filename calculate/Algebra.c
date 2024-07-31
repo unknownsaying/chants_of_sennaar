@@ -1,0 +1,10 @@
+#define one Q
+#define two W
+#define three E
+#define four R
+#define five T
+#define six Y
+#define seven U
+#define eight I
+#define nine O
+#define ten P
