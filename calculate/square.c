@@ -1,6 +1,6 @@
 #include "./BigAlphaBet/BigAlphaBet.h"
 #include "./Algebra.h"
-$include "./number.h"
+#include "./number.h"
 void square33(){
   const A0 = "[0][A][0],[A][0][A],[0][A][0]";
   const B0 = "[0][B][0],[B][0][B],[0][B][0]";
