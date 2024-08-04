@@ -4,4 +4,4 @@
 #define twentythree V
 #define twentyfour B
 #define twentyfive N
-#define twentyseven M
+#define twentysix M
