@@ -1,1 +1,1 @@
-the source code of chants of sennar
+the source code of chants of sennaar
