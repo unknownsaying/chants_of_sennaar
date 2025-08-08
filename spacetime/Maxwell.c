@@ -25,7 +25,7 @@ for (int t = 0; t < timestep; ++t) {
                     (D[i][j+1][k] - D[i][j-1][k]) / dy +
                     (D[i][j][k+1] - D[i][j][k-1]) / dz
                );
-               // calculate magnetic B 
+               // calculate magnetic field B 
                return
                B[i][j][k] += dt * (mu0 / (dx * dy)) * (
                     (H[i][j+1][k] - H[i][j-1][k]) * dy -
