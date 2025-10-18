@@ -12,7 +12,7 @@ void law3(double M) {
     double T = 1 / (8 * M * PI);
     printf("Temperature: %.2lf\n", T);
 }
-void law4(double S, double A) 
+void law4(double S, double A) {
     S = (1 / 4) * A;
     printf("Entropy: %.2lf\n", S);
 }
